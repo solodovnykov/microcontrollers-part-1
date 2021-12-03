@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>82</LINE></reset>
+  <TIMER4_COMPA><FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>33</LINE></TIMER4_COMPA>
+  <algorithm_2><FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>57</LINE></algorithm_2>
+  <continue><FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>48</LINE></continue>
+  <return><FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>77</LINE></return>
+  <continue_3><FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>70</LINE></continue_3>
+  <main><FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>130</LINE></main>
+  <next_button><FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>138</LINE></next_button>
+  <delay><FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>176</LINE></delay>
+  <button_1_is_pressed><FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>146</LINE></button_1_is_pressed>
+  <button_2_is_pressed><FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>157</LINE></button_2_is_pressed>
+  <buzzer><FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>169</LINE></buzzer>
+  <del><FILE>D:\Study\Microcontrollers\Lab5\Code\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>180</LINE></del>
+ </LABELS>
+</ASSEMBLER_INFO>
